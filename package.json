@@ -1,0 +1,16 @@
+{
+	"name": "mockbot",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "nodemon ./mockbot.js",
+		"start": "node ./mockbot.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"discord.js": "^12.3.1",
+		"dotenv": "^9.0.0"
+	}
+}
